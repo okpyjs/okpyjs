@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 📍  Germany.
 
-💼 Software Engineer with experience in Python programming and in Machine Learning (Computer Vision and Natural Language Processing). 
+💼 Full Stack Developer with experience in Python and JavaScript programming and in Machine Learning (Computer Vision and Natural Language Processing). 
 
-🌱 My primary goal is to continue to develop my skills in the field of Artificial Intelligence.
+🌱 My primary goal is to continue to develop my skills in the field of Web Developement and Artificial Intelligence.
