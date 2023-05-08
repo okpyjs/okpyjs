@@ -1,7 +1,6 @@
-### Hi, I am Vladislav 👋
+### Hi, I am Oleksandr 👋
 
 <!--
-**vladislavalerievich/vladislavalerievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📍  Germany.
+📍  Ukraine.
 
 💼 Full Stack Developer with experience in Python and JavaScript programming and in Machine Learning (Computer Vision and Natural Language Processing). 
 
