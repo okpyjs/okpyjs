@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📍  Ukraine.
+📍  Canada.
 
 💼 Full Stack Developer with experience in Python and JavaScript programming and in Machine Learning (Computer Vision and Natural Language Processing). 
 
